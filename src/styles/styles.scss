@@ -272,7 +272,12 @@ hr {
       display: block;
     }
 
+    li {
+      margin-bottom: 2rem;
+    }
+
     li a {
+      color:hsl(240, 100%, 5%);
       font-size: 1.5rem;
     }
   }
